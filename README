@@ -1,0 +1,13 @@
+Functions included:
+
+strcpy
+strncpy
+strcat
+strncat
+strcmp
+strncmp
+strlen
+strchr
+strrchr
+strstr
+
